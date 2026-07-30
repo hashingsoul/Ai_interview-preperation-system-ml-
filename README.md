@@ -304,10 +304,6 @@ This project is licensed under the **MIT License**.
 
 🎓 IIT Madras BS in Data Science & Applications
 
-### Connect with me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
